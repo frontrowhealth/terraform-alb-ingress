@@ -9,3 +9,4 @@
 .terraformrc
 .validate
 test.tf
+.idea/
